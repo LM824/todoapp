@@ -2,7 +2,7 @@
 
 1.Демонстрация
 
-https://stackblitz.com/edit/react-rl7tbfld?file=src%2FApp.js%3AL4-L4,src%2FApp.css,src%2Findex.js
+[https://stackblitz.com/edit/react-rl7tbfld?file=src%2FApp.js%3AL4-L4,src%2FApp.css,src%2Findex.js](https://react-rl7tbfld.stackblitz.io)
 
 
 2.Функционалности
